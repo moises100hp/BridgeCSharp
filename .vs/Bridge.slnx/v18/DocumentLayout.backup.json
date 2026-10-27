@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moises\\source\\repos\\Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\janelawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\janelawindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\janelaabstrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\janelaabstrata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\janeladialogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\janeladialogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\janelalinux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\janelalinux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|c:\\users\\moises\\source\\repos\\bridge\\bridge\\ijanelabridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C133EA7C-4085-46DF-805A-51F650910E2D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\ijanelabridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JanelaDialogo.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaDialogo.cs",
+              "RelativeDocumentMoniker": "Bridge\\JanelaDialogo.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaDialogo.cs",
+              "RelativeToolTip": "Bridge\\JanelaDialogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:34:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JanelaAbstrata.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaAbstrata.cs",
+              "RelativeDocumentMoniker": "Bridge\\JanelaAbstrata.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaAbstrata.cs",
+              "RelativeToolTip": "Bridge\\JanelaAbstrata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:30:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JanelaLinux.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaLinux.cs",
+              "RelativeDocumentMoniker": "Bridge\\JanelaLinux.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaLinux.cs",
+              "RelativeToolTip": "Bridge\\JanelaLinux.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:27:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JanelaWindows.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaWindows.cs",
+              "RelativeDocumentMoniker": "Bridge\\JanelaWindows.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\JanelaWindows.cs",
+              "RelativeToolTip": "Bridge\\JanelaWindows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:25:54.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJanelaBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\IJanelaBridge.cs",
+              "RelativeDocumentMoniker": "Bridge\\IJanelaBridge.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\IJanelaBridge.cs",
+              "RelativeToolTip": "Bridge\\IJanelaBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:22:05.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\Bridge\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:21:35.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
